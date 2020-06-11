@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="HW testng">
+    <test name="Message">
+    <classes>
+        <class name="homework_test.hw1.VKcom"/>
+    </classes>
+</test>
+    <test name="Calculator">
+        <classes>
+            <class name="homework_test.hw1.TestCalculator"/>
+        </classes>
+    </test>
+</suite>
